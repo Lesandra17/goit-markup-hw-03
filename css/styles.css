@@ -107,7 +107,8 @@ align-items: center;
         color: var(--primary-color); 
         display: flex;
         align-items: center;
-       gap: 40px;
+        gap: 40px;
+        padding: 24px 0;
        
       }
        
@@ -418,7 +419,7 @@ border: 1px solid #e7e9fc;
     border: 1px solid var(--color-border);
     border-top: none;
     }   
-    
+
  .services-title {
 font-weight: 500;
 font-size: 20px;
