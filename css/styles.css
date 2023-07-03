@@ -92,12 +92,12 @@ align-items: center;
 }
     
 
-    .list  {
+    .list .header-list {
         list-style: none;
         display: flex;
         flex-wrap: wrap;
         align-items: center;
-
+        
     }
     .header-list {
         font-weight: 500;
@@ -107,9 +107,8 @@ align-items: center;
         color: var(--primary-color); 
         display: flex;
         align-items: center;
-        gap: 40px;
         padding: 24px 0;
-       
+       gap: 40px;
       }
        
      
